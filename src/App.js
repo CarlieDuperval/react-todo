@@ -8,15 +8,9 @@ import firebase from 'firebase'
 import Home from './scenes/Home'
 import Login from './scenes/Login'
 import Signup from './scenes/Signup'
-import TopMenu from './components/TopMenu'
+import TopMenu from './Components/TopMenu'
 import { firebaseConfig } from './fbConfig'
 import 'antd/dist/antd.css'
-
-
-
-
-
-
 
 
 

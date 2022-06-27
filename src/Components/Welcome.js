@@ -1,5 +1,6 @@
 import React, { useContext } from 'react'
 import { Avatar } from 'antd'
+import { UserContext } from '../App'
 
 
 const Welcome  = () => {
