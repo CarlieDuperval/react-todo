@@ -4,6 +4,7 @@ import {
   Switch,
   Route
 } from 'react-router-dom'
+//import * as firebase from "firebase/app"
 import firebase from 'firebase'
 import Home from './scenes/Home'
 import Login from './scenes/Login'
