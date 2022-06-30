@@ -4,7 +4,12 @@ import firebase from 'firebase'
 import { UserContext } from '../App'
 import { Form, Input, Button, Checkbox } from 'antd'
 import { GoogleOutlined } from '@ant-design/icons'
-import { firebaseConfig } from '../fbConfig'
+//import { firebaseConfig } from '../fbConfig'
+
+
+
+
+
 
 const layout = {
   labelCol: {
